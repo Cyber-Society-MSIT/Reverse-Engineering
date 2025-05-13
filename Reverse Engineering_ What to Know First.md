@@ -1,5 +1,8 @@
 # Reverse Engineering: What to Know First
 
+[Watch the session on youtube](https://www.youtube.com/watch?v=La2XZP9Krm4&t=1679s)
+
+
 ![istockphoto-1397047877-612x612](assets/istockphoto-1397047877-612x612-20250413201303-n840mda.jpg)
 
 ### **DECIMAL NUMBER SYSTEM**
